@@ -1,1 +1,1 @@
-## blog: <https://tomatom4to.github.io/>
+## <https://tomatom4to.github.io/>

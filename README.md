@@ -18,3 +18,7 @@
     height: 200px;
     background: blue;
 "></span>
+
+<p style="color: white; background-color: black; padding: 10px; border-radius: 5px;">
+    텍스트
+</p>
